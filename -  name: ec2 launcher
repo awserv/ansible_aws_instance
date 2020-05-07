@@ -15,3 +15,4 @@
         count: 1
         vpc_subnet_id: subnet-08de9297b703681bd
         wait: yes
+        assign_public_ip: yes
