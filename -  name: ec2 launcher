@@ -1,3 +1,6 @@
+# ec2 ubuntu
+# t2.micro
+
 -  name: ec2 launcher
    hosts: localhost
    connection: local
